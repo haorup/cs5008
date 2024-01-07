@@ -1,6 +1,6 @@
 # hello-world
 intro-github
 
-H^2^
+H<sup>2<\sup>
 
-H~2~O
+H<sub>2<\sub>O
