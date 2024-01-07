@@ -1,5 +1,6 @@
 # hello-world
 intro-github
+GitHub is powerful!
 
 ## superscript
 H<sup>2</sup>
